@@ -1,0 +1,2 @@
+DOMEN = 'sstmk.ru'
+
